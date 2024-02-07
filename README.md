@@ -11,9 +11,8 @@ Soy una estudiante apasionada de desarrollo de software con un enfoque en el des
 🎨 Diseño y Experiencia de Usuario: Me apasiona el diseño limpio y la experiencia del usuario.</br>
 🌱 Aprendizaje Continuo: Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades.</br>
 
-## ¿Qué encontrarás en mi repositorio?</br>
+## En mi perfil de GitHub, encontrarás:</br>
 
-En mi perfil de GitHub, encontrarás:</br>
 📁 Proyectos: Repositorios de proyectos en los que he trabajado.</br>
 📝 Documentación: Notas, tutoriales y documentación relacionada con el desarrollo frontend.
 🌟 Contribuciones: Mis contribuciones a proyectos de código abierto.</br>
