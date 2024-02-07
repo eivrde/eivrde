@@ -32,7 +32,6 @@ Una estudiante apasionada de desarrollo de software con un enfoque en el desarro
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-Jasmine	Jasmine	![Jasmine]
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -48,4 +47,4 @@ Jasmine	Jasmine	![Jasmine]
 
 
 
-¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) , ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) o ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) . ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
+¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn o X. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
