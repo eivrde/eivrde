@@ -13,7 +13,7 @@ Una estudiante apasionada de desarrollo de software con un enfoque en el desarro
 ## En mi perfil de GitHub, encontrarás:</br>
 
 📁 Proyectos: Repositorios de proyectos en los que he trabajado.</br>
-📝 Documentación: Notas y documentación relacionada con el desarrollo frontend.
+📝 Documentación: Notas y documentación relacionada con el desarrollo frontend.</br>
 🌟 Contribuciones: Mis contribuciones a proyectos de código abierto.</br>
 
 ## Lenguajes, frameworks y otras tecnologías:</br>
@@ -43,6 +43,9 @@ Jasmine	Jasmine	![Jasmine]
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
-¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn o Twitter. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
+
+¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) , ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) o ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) . ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
