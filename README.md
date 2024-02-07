@@ -4,7 +4,7 @@
 
 Soy una estudiante apasionada de desarrollo de software con un enfoque en el desarrollo frontend. Mi camino en este emocionante mundo comenzó como autodidacta, y actualmente estoy construyendo mi portafolio para mostrar mis habilidades y proyectos.</br>
 
-Algunos aspectos sobre mí:</br>
+## Algunos aspectos sobre mí:</br>
 💡 Autodidacta: Me encanta aprender por mi cuenta y explorar nuevas tecnologías.</br>
 🌐 Desarrollo Frontend: Mi corazón está en la creación de interfaces de usuario hermosas y funcionales.</br>
 🚀 Proyectos Personales: Estoy trabajando en una variedad de proyectos, desde pequeñas aplicaciones web hasta componentes reutilizables.</br>
