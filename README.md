@@ -53,4 +53,4 @@ Una estudiante apasionada de desarrollo de software con un enfoque en el desarro
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn o X. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
+¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
