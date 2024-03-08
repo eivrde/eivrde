@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy Keisy,</br>
 
-Soy una apasionada estudiante autodidacta en el mundo de la ingeniería de software. Mi enfoque se centra en el desarrollo front-end y el diseño de interfaces y experiencias de usuario. Actualmente, estoy desarrollando mi portafolio personal para exhibir mis proyectos y habilidades. ¡Estoy emocionada por lo que vendrá!</br>
+una apasionada estudiante autodidacta en el mundo de la ingeniería de software. Mi enfoque se centra en el desarrollo front-end y el diseño de interfaces y experiencias de usuario. Actualmente, estoy desarrollando mi portafolio personal para exhibir mis proyectos y habilidades. ¡Estoy emocionada por lo que vendrá!</br>
 
 ## Algunos aspectos sobre mí:</br>
 
