@@ -1,13 +1,13 @@
 ### ¡Hola! 👋 Soy Keisy,</br>
 
-Una estudiante apasionada de desarrollo de software con un enfoque en el desarrollo frontend y el diseño UX/UI. Mi camino en este emocionante mundo comenzó como autodidacta, y actualmente estoy construyendo mi portafolio para mostrar mis habilidades y proyectos.</br>
+Soy una apasionada estudiante autodidacta en el mundo de la ingeniería de software. Mi enfoque se centra en el desarrollo front-end y el diseño de interfaces y experiencias de usuario. Actualmente, estoy desarrollando mi portafolio personal para exhibir mis proyectos y habilidades. ¡Estoy emocionada por lo que vendrá!</br>
 
 ## Algunos aspectos sobre mí:</br>
 
-💡 Autodidacta: Me encanta aprender por mi cuenta y explorar nuevas tecnologías.</br>
-🌐 Desarrollo Frontend: Mi corazón está en la creación de interfaces de usuario hermosas y funcionales.</br>
+💡 Autodidacta Apasionada: Aprendo constantemente a través de cursos en línea, blogs y proyectos personales.</br>
+🌐 Desarrollo Frontend: He trabajado en proyectos utilizando HTML, CSS y JavaScript para crear interfaces atractivas y funcionales.</br>
 🚀 Proyectos Personales: Estoy trabajando en una variedad de proyectos, desde pequeñas aplicaciones web hasta componentes reutilizables.</br>
-🎨 Diseño y Experiencia de Usuario: Me apasiona el diseño limpio y la experiencia del usuario.</br>
+🎨 Diseño y Experiencia de Usuario: Me encanta diseñar interfaces limpias y amigables que mejoren la experiencia del usuario.</br>
 🌱 Aprendizaje Continuo: Siempre estoy buscando oportunidades para crecer y mejorar mis habilidades.</br>
 
 ## En mi perfil de GitHub, encontrarás:</br>
@@ -16,7 +16,7 @@ Una estudiante apasionada de desarrollo de software con un enfoque en el desarro
 📝 Documentación: Notas y documentación relacionada con el desarrollo frontend.</br>
 🌟 Contribuciones: Mis contribuciones a proyectos de código abierto.</br>
 
-## Lenguajes, frameworks y otras tecnologías:</br>
+## 🔧 Herramientas y Tecnologías:</br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,4 +53,4 @@ Una estudiante apasionada de desarrollo de software con un enfoque en el desarro
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn o Twitter. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀
+¡No dudes en explorar mi trabajo! Siéntete libre de conectarte conmigo en LinkedIn o Twitter. ¡Estoy emocionada por lo que el futuro tiene reservado en mi viaje como desarrolladora frontend! 🚀👩🏻‍💻
